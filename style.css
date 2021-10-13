@@ -1,0 +1,40 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+.start {
+/*background-image: url('assets/start.png');*/
+width: 60px;
+height: 40px;
+cursor:pointer;
+/*background-size: cover;
+outline: none;
+/*display:inline-block;*/
+/*background-color: transparent;*/
+/*border-radius: 30px;*/
+
+
+}
+
+.RESTART {
+
+
+  cursor: pointer;
+    transition-duration: 0.4s;
+  outline:none;
+  display: inline-block;
+}
+
+.QUIT {
+
+  
+  
+ 
+  cursor: pointer;
+    transition-duration: 0.4s;
+  outline:none;
+  display: inline-block;
+}
